@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
-    <Id>SlackConnector_Demo</Id>
+    <PackageId>SlackConnector_Demo</PackageId>
     <Version>1.0.1</Version>
     <AssemblyVersion>1.0.0.1</AssemblyVersion>
     <FileVersion>1.0.0.1</FileVersion>
